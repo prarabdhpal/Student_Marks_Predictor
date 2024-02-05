@@ -1,5 +1,12 @@
-# This is a Ml Project by @prarabdhpal under @KrishNaik
+# This is a Machine Learning Project made by @prarabdhpal.
+### In this is project, a prediction of Maths Score of a sundent is made using certian Categorical Features.
 
-### Go to Anaconda Prompt then type :cd C:\Users\prara\anaconda3\envs
-### After this type :`code .` to enter into the VS Code now Change terminal to cmd in order to use CONDA
-### Use command conda activate enev/ to change from `(base)` to `(enev)`.
+## Libraries Used: 
+### 1. Pandas
+### 2. Numpy
+### 3. Seaborn
+### 4. Matplotlib
+### 5. SciKit-Learn
+### 6. Catboost
+### 7. Xgboost
+### 8. flask
