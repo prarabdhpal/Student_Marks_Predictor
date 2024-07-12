@@ -1,7 +1,15 @@
 # This is a Machine Learning Project made by @prarabdhpal.
 ### In this is project, a prediction of Maths Score of a sundent is made using certian Categorical Features.
+### The Categorical features considered are: 
+### 1. Gender
+### 2. Race Ethnicity
+### 3. Parental  Level of Education
+### 4. Lunch
+### 5. Test Preparation
+### 6. Reading Score
+### 7. Writing Score
 
-## Libraries Used: 
+## Libraries used in Project: 
 ### 1. Pandas
 ### 2. Numpy
 ### 3. Seaborn
