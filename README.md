@@ -1,4 +1,4 @@
-# Maths Marks Predictor
+# Students Marks Predictor
 
 ## Project Overview
 This project aims to predict a student's Math score based on certain categorical features.
